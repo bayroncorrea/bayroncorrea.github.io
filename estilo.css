@@ -503,7 +503,7 @@ html{
     width: 100%;
     height: 100%;
     text-align: center;
-    background: linear-gradient(rgba(28,182,152,.8), rgba(28,182,152,.8));
+    background: linear-gradient(rgba(13, 17, 103, 0.8), rgba(28, 31, 182, 0.8));
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -553,7 +553,7 @@ html{
     padding: 18px;
     border: none;
     margin-bottom: 20px;
-    background-color: #252A2E;
+    background-color: #26548f;
     color: #fff;
     font-size: 18px;
 }
@@ -576,7 +576,7 @@ html{
     left: 0;
     width: 0;
     height: 100%;
-    background-color: #1CB698;
+    background-color: #007aff;
     z-index: -1;
     transition: 1s;
 }
@@ -589,7 +589,7 @@ html{
 .contacto .col .info{
     position: absolute;
     top: 40%;
-    background-color: #252A2E;
+    background-color: #000000;
     padding: 20px;
     max-swidth: 350px;
     left: 50%;
@@ -602,12 +602,12 @@ html{
     margin-bottom: 20px;
 }
 .contacto .col .info ul li i{
-    color: #1CB698;
+    color: #007aff;
     display: inline-block;
     margin-right: 20px;
 }
 footer{
-    background-color: #252A2E;
+    background-color: #4790df;
     color: #fff;
     padding: 50px 0 30px 0;
     text-align: center;
@@ -618,10 +618,10 @@ footer .redes{
     margin-bottom: 20px;
 }
 footer .redes a{
-    color: #fff;
+    color: #000000;
     display: inline-block;
     text-decoration: none;
-    border: 1px solid #fff;
+    border: 1px solid #000000;
     border-radius: 100%;
     width: 42px;
     height: 42px;
@@ -634,7 +634,7 @@ footer .arriba{
     display: block;
     width: 50px;
     height: 50px;
-    background-color: #1CB698;
+    background-color: #005cc0;
     color: #fff;
     position: absolute;
     left: 50%;
